@@ -37,8 +37,7 @@
 <br />
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damygoes&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes)](https://github.com/damygoes/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damygoes&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes)](https://github.com/damygoes/github-readme-stats)
 
 
 
