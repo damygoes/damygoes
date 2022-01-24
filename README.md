@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Damilola Bada 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/damy_goes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/damygoes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/damy_goes)
 
 ## About Me 👨🏽‍💼
 
@@ -35,7 +35,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+<hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damygoes&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes)](https://github.com/damygoes/github-readme-stats)
