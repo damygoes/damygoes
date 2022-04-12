@@ -1,4 +1,4 @@
-[![MasterHead](src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60")](https://www.damilolabada.com)
+[![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60)](https://www.damilolabada.com)
 
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60">
 
