@@ -44,7 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=damygoes)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 [twitter]: https://twitter.com/damy_goes
 [instagram]: https://www.instagram.com/damy.goes
 [linkedin]: https://www.linkedin.com/in/damilolabada
