@@ -1,5 +1,5 @@
 
-<img align="top" alt="Coding" width="1400" height="300" src="header.png">
+<img align="top" alt="Coding" width="1400" height="300" src="https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60">
 
 <h1 align="center">Hi 👋, I'm Damilola Bada</h1>
 <h3 align="center">A passionate Fullstack developer from Germany</h3>
@@ -41,5 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damygoes&show_icons=true&locale=en" alt="damygoes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damygoes&" alt="damygoes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damygoes&" alt="damygoes" /></p> [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
 
