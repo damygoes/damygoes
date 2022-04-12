@@ -1,5 +1,5 @@
 
-<img align="top" alt="Coding" width="1400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60">
+<img align="top" alt="Coding" width="1400" height="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60">
 
 ### Hi 👋, I'm Damilola Bada 
 
