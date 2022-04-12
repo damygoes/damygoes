@@ -41,7 +41,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damygoes&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damygoes&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=damygoes)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=damygoes)](https://github-profile-trophy.vercel.app/?username=damygoes&row=2&column=3) 
 
 
 [twitter]: https://twitter.com/damy_goes
