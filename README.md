@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/damygoes/<OWNER>/<OWNER>/header.png "Header")](https://some-url.dev/)
+<a href="https://www.damilolabada.com" target="blank"><img align="center" src="https://drive.google.com/file/d/1eEAvNiBHhFdJxg4kDdMrv6HkOFWjrAXp/view?usp=sharing" height="100" /></a>
 
 ### Hi 👋, I'm Damilola Bada 
 
