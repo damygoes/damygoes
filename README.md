@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/damy_goes" target="blank"><img src="https://img.shields.io/twitter/follow/damy_goes?logo=twitter&style=for-the-badge" alt="damy_goes" /></a> </p>
 
-- 🔭 I’m currently working on [an ecommerce store](https://github.com/damygoes/trendy-cart-frontend)
+- 🔭 I’m currently working on [an ecommerce store](https://github.com/damygoes/cux)
 
-- 🌱 I’m currently learning **React, NodeJS and ExpressJS**
+- 🌱 I’m currently learning **Vue, NodeJS and ExpressJS**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://www.damilolabada.com](https://www.damilolabada.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Vue**
 
 - 📫 How to reach me **badadamilola@gmx.de**
 
