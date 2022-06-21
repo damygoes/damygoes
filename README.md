@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+</div>
+
+
 
 <img align="top" alt="Coding" width="1400" height="300" src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZ3JhbW1pbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60">
 
