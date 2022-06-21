@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZFtvuSCT2fGVl34Wpi/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/damilolabada/">
@@ -42,6 +42,7 @@ I am passionate about using various web development tools to create fun products
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -54,13 +55,15 @@ I am passionate about using various web development tools to create fun products
 
 ---
 
+### :fire: My Stats :
+
 <div align="left" style="padding: 16px, width: 300px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damygoes&show_icons=true&locale=en&layout=compact" alt="damygoes" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damygoes&" alt="damygoes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=damygoes&show_icons=true&locale=en" alt="damygoes" />
 </div>
 
-
+---
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
