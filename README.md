@@ -30,7 +30,7 @@ I am passionate about using various web development tools to create fun products
 - :stopwatch: In my free time, I solve problems on leetcode and read tech articles.
 - :mailbox: Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-damy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damilolabada/)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/damy_goes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damy_goes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/damilolabada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilolabada" height="30" width="40" /></a>
@@ -53,13 +53,12 @@ I am passionate about using various web development tools to create fun products
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+
 
 
