@@ -24,10 +24,10 @@
 ---
 # 💫 About Me:
 ### :man_technologist: Fun Facts About Me:
-I am passionate about using various web development tools to create fun products that solve problems in various industries.
+I am passionate about using various web development tools to create valuable products that solve problems in various industries.
 - :globe_with_meridians: I live in Germany.
 - :bike: I love cycling.
-- :stopwatch: In my free time, I solve problems on leetcode and read tech articles.
+- :stopwatch: In my free time, I relax.
 - :mailbox: Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-damy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damilolabada/)
 
 <h2 align="left">🌐 Connect with me:</h3>
