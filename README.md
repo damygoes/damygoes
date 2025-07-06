@@ -43,6 +43,26 @@ Prisma · TypeORM · Supabase · MongoDB · PostgreSQL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=damygoes&show_icons=true&theme=default&hide_border=true" alt="Damilola's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damygoes&theme=default&hide_border=true" alt="Damilola's GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damygoes&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🗓️ Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damygoes&theme=github-compact" alt="GitHub activity graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies _(optional flair)_
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=damygoes&theme=flat&no-frame=true&column=4&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
