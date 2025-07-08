@@ -20,7 +20,7 @@ I care about developer experience, clean architecture, and crafting tools that s
 ## 🧰 Tech Stack
 
 **Languages**  
-TypeScript · JavaScript · HTML · CSS · Markdown
+TypeScript · JavaScript · HTML · CSS · Markdown · Golang
 
 **Frontend**  
 React · React Native · Next.js · TailwindCSS · Shadcn UI · Radix UI
